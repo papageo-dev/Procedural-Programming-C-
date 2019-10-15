@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1539361664 source:c:\users\papageorge\desktop\ΔΙΑΔΙΚΑΣΤΙΚΟΣ ΠΡΟΓΡΑΜΜΑΤΙΣΜΟΣ\Προγράμματα σε c\Εργασία 2\a7f2\a7f2.c
+	<stdio.h>
+	"simpio.h"
+

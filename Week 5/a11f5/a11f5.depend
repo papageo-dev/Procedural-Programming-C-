@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1541115272 source:c:\users\papageorge\desktop\a11f5\a11f5.c
+	<stdio.h>
+	"simpio.h"
+	"math.h"
+
+1541513100 source:c:\users\papageorge\desktop\Εργασία 5\a11f5\a11f5.c
+	<stdio.h>
+	<math.h>
+	"genlib.h"
+	"simpio.h"
+
+1541513100 source:c:\users\papageorge\desktop\ΔΙΑΔΙΚΑΣΤΙΚΟΣ ΠΡΟΓΡΑΜΜΑΤΙΣΜΟΣ\Προγράμματα σε c\Εργασία 5\a11f5\a11f5.c
+	<stdio.h>
+	<math.h>
+	"genlib.h"
+	"simpio.h"
+

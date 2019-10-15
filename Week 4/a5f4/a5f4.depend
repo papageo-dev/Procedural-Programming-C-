@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1540663701 source:c:\users\pap geo\desktop\a5f4\a5f4.c
+	<stdio.h>
+	"simpio.h"
+	"genlib.h"
+
+1540768954 source:c:\users\papageorge\desktop\Εργασία 4\a5f4\a5f4.c
+	<stdio.h>
+	"simpio.h"
+	"genlib.h"
+

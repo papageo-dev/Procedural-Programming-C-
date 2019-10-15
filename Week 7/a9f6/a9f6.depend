@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1542325358 source:c:\users\papageorge\desktop\a9f6\a9f6.c
+	<stdio.h>
+	"simpio.h"
+

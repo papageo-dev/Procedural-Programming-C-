@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1543678005 source:c:\users\pap geo\desktop\Εργασία 4\a16f7\a16f7.c
+	<stdio.h>
+	"simpio.h"
+	"ctype.h"
+
+1543678005 source:c:\users\pap geo\desktop\a16f7\a16f7.c
+	<stdio.h>
+	"simpio.h"
+	"ctype.h"
+
+1543950804 source:c:\users\papageorge\desktop\Εργασία 9\a16f7\a16f7.c
+	<stdio.h>
+	"simpio.h"
+	"ctype.h"
+	"string.h"
+

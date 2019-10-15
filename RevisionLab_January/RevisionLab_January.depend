@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1547945455 source:c:\users\papageorge\desktop\revisionlab_january\revisionlab_january.c
+	<stdio.h>
+	"simpio.h"
+	"string.h"
+
+1547949055 source:c:\users\papageorge\desktop\procedural programming(c)\revisionlab_january\revisionlab_january.c
+	<stdio.h>
+	"simpio.h"
+	"string.h"
+

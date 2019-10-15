@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1543950348 source:c:\users\papageorge\desktop\Εργασία 9\a14f7\a14f7.c
+	<stdio.h>
+	<genlib.h>
+	<time.h>
+	"simpio.h"
+	"string.h"
+
